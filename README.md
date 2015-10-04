@@ -17,7 +17,7 @@ POLI TILT is a Chrome Web Extension that is powered by the Indico political anal
 
 ##Implementation
 
-POLI TILT is powered by the Indico (indico.io) text processing API. POLI TILT also uses AlchemyAPI (http://www.alchemyapi.com/) to parse text from articles. POLI TILT is build off of the Microsoft Windows Azure platform (azure.microsoft.com) using a Bitnami LAMP stack Ubuntu VM to power an Apache Server and MySQL database.
+POLI TILT is powered by the Indico (www.indico.io) text processing API. POLI TILT also uses AlchemyAPI (http://www.alchemyapi.com/) to parse text from articles. POLI TILT is build off of the Microsoft Windows Azure platform (http://azure.microsoft.com) using a Bitnami LAMP stack Ubuntu VM to power an Apache Server and MySQL database.
 
 ##How it Works
 
