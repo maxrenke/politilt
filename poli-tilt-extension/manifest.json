@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "POLI TILT",
+  "description": "Measure the political leanings of websites directly from your Google Chrome title bar, powered by Indico",
+  "version": "1.0",
+  "icons": { "16": "icon.png",
+           "48": "logo38.png" },
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab",
+   "http://*/"
+   ]
+}

@@ -1,44 +1,26 @@
-# POLI TILT
-Article Analysis for the politically inebriated.
+# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
-##Contributors
-* Maxwell Renke - maxrenke@gmail.com
-* Ryan Bowring - rwb1005@wildcats.unh.edu
-* Warren Edgar - wew6@wildcats.unh.edu
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
 
-##Overview
-POLI TILT is a Chrome Web Extension that is powered by the Indico political analysis API to determine the bias of a political news article. Scores include Liberal (left leaning), Moderate (relatively neutral), and Conservative (right leaning). This helpful for those who are "politically inebriated" and want to make sure they are getting the correct perspective of the political landscape. POLI TILT also has a backend MySQL database to store the articles as well as our analysis.
+## Getting Started
 
-##Features
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-* Chrome Web Extension (reports bias)
-* Web Interface (analyze by URL, or search previous articles)
-* Custom tuned algorithm powered by Indico
+## Bugs and Issues
 
-##Implementation
+Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
 
-POLI TILT is powered by the Indico (www.indico.io) text processing API. POLI TILT also uses AlchemyAPI (http://www.alchemyapi.com/) to parse text from articles. POLI TILT is build off of the Microsoft Windows Azure platform (http://azure.microsoft.com) using a Bitnami LAMP stack Ubuntu VM to power an Apache Server and MySQL database.
+## Creator
 
-##How it Works
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-Simply install (coming soon) our extension and navigate to a news article. Simply click on our extension to find the political "tilt"!
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-To learn more, follow the link and see other articles that have been analyzed by POLI TILT.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-##Try it now
+## Copyright and License
 
-* Download "poli-tilt-extension" and save it to your computer.
-* Install Google Chrome
-* Settings > More Tools > Extensions > Enable Developer Mode
-* Click "Load unpacked extension..."
-* You're done!
-
-Alternatively, navigate to http://lampstack5-635795001885558423.cloudapp.net/politilt/tilt.php and enter the URL of an article, or browse articles that have already been analyzed!
-
-##Future Work
-
-A more robust search feature needs to be implemented to make better use of the number of articles analyzed by POLI TILT. Additonal social functionality could also be built in, to share articles with political bias or also recommend articles based on their bias.
-
-##Thank Yous
-
-Big thank you to Indico, Microsoft, and especially HackDartmouth!
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
