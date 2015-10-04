@@ -38,3 +38,7 @@ Alternatively, navigate to http://lampstack5-635795001885558423.cloudapp.net/pol
 ##Future Work
 
 A more robust search feature needs to be implemented to make better use of the number of articles analyzed by POLI TILT. Additonal social functionality could also be built in, to share articles with political bias or also recommend articles based on their bias.
+
+##Thank Yous
+
+Big thank you to Indico, Microsoft, and especially HackDartmouth!
