@@ -25,6 +25,16 @@ Simply install (coming soon) our extension and navigate to a news article. Simpl
 
 To learn more, follow the link and see other articles that have been analyzed by POLI TILT
 
+##Try it now
+
+* Download "poli-tilt-extension" and save it to your computer.
+* Install Google Chrome
+* Settings > More Tools > Extensions > Enable Developer Mode
+* Click "Load unpacked extension..."
+* You're done!
+
+Alternatively, navigate to http://lampstack5-635795001885558423.cloudapp.net/politilt/tilt.php and enter the URL of an article, or browse articles that have already been analyzed!
+
 ##Future Work
 
 A more robust search feature needs to be implemented to make better use of the number of articles analyzed by POLI TILT. Additonal social functionality could also be built in, to share articles with political bias or also recommend articles based on their bias.
