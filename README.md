@@ -23,7 +23,7 @@ POLI TILT is powered by the Indico (www.indico.io) text processing API. POLI TIL
 
 Simply install (coming soon) our extension and navigate to a news article. Simply click on our extension to find the political "tilt"!
 
-To learn more, follow the link and see other articles that have been analyzed by POLI TILT
+To learn more, follow the link and see other articles that have been analyzed by POLI TILT.
 
 ##Try it now
 
